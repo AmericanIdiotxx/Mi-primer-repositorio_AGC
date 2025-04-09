@@ -5,7 +5,7 @@ from multiplicacion import multiplicar
 from division import dividir
 
 while True:
-    print("""Hola, ¿con qué operación te podemos ayudar hoy? 
+    print("""Hola, bienvenido a la super calculadora de Arturo y Male, ¿con qué operación te podemos ayudar hoy? 
           1. Sumar 
           2. Restar 
           3. Multiplicar 
